@@ -2,7 +2,7 @@ Hackspace Rules
 ===============
 Every member and guest of the space is expected to follow the rules.
 
-Below is a summary of the rules, each has its own full description that can be accessed on the rules site at rules.nottinghack.org.uk .
+Below is a summary of the rules, each has its own full description that can be accessed on the rules site at https://rules.nottinghack.org.uk .
 
 0. Rule 0: Do Not Be On Fire
     It is essential you use the Space safely as a responsible adult.
